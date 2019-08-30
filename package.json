@@ -51,7 +51,7 @@
     }
   },
   "dependencies": {
-    "hummus": "1.0.95",
+    "hummus": "1.0.105",
     "object-assign": "4.1.1"
   },
   "devDependencies": {
