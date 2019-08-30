@@ -2,7 +2,9 @@
 
 [![NPM Version](http://img.shields.io/npm/v/jsreport-pdf-password.svg?style=flat-square)](https://npmjs.com/package/jsreport-pdf-password)[![Build Status](https://travis-ci.org/jsreport/jsreport-pdf-password.png?branch=master)](https://travis-ci.org/jsreport/jsreport-pdf-password)
 
+> Version with hummus dependecy updated to 1.0.105 to prevent the error https://stackoverflow.com/questions/54939931/getting-node-pre-gyp-install-fallback-to-build-error-while-installing-hummu. Just use npm install https://github.com/Dangelo123/jsreport-pdf-password --save
 > jsreport extension adding password protection to PDF reports
+
 
 ![demo](demo.gif)
 
