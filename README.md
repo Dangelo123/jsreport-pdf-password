@@ -1,4 +1,4 @@
-# jsreport-pdf-password
+# jsreport-pdf-password-hummus@1.0.105
 
 [![NPM Version](http://img.shields.io/npm/v/jsreport-pdf-password.svg?style=flat-square)](https://npmjs.com/package/jsreport-pdf-password)[![Build Status](https://travis-ci.org/jsreport/jsreport-pdf-password.png?branch=master)](https://travis-ci.org/jsreport/jsreport-pdf-password)
 
